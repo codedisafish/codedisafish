@@ -1,6 +1,5 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1375894187152642088?showDisplayName=true)](https://discord.com/users/1375894187152642088)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1375894187152642088?borderRadius=19px&showDisplayName=true&hideActivity=true&hideSpotify=true&hideBadges=true&hideTimestamp=true&hideStatus=true&theme=dark)](https://discord.com/users/1375894187152642088)
 
-My spotify embed may not be up to date!, it doesn't update instantly.
 
 ## 👋 Hi, I'm coded
 I'm a passionate frontend developer (with occasional backend development), Check out https://codedisafish.com if you have time!
