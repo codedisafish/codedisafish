@@ -1,6 +1,6 @@
-My spotify embed may not be up to date!, it doesn't update instantly.
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/1375894187152642088?showDisplayName=true)](https://discord.com/users/1375894187152642088)
+
+My spotify embed may not be up to date!, it doesn't update instantly.
 
 ## 👋 Hi, I'm coded
 I'm a passionate frontend developer (with occasional backend development), Check out https://codedisafish.com if you have time!
