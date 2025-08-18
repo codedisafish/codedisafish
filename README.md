@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1375894187152642088?showDisplayName=true)](https://discord.com/users/1375894187152642088)
 
 ## 👋 Hi, I'm codedisafish
-I'm a passionate frontend developer (with occasional backend adventures) who loves building sleek, responsive interfaces and tinkering with cool integrations. Check out my personal site for all my links and projects: codedisafish.com
+I'm a passionate frontend developer (with occasional backend development), Check out https://codedisafish.com if you have time!
 
 ## 🚀 Latest Project
 ### 🎧 [Youtube-Discord-RPC](https://github.com/codedisafish/Youtube-Discord-RPC)
