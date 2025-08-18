@@ -7,7 +7,8 @@ I'm a passionate frontend developer (with occasional backend adventures) who lov
 ### 🎧 [Youtube-Discord-RPC](https://github.com/codedisafish/Youtube-Discord-RPC)
 A lightweight tool that displays your current YouTube activity as a Discord Rich Presence. 
 
-## 📊 GitHub Stats ![codedisafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedisafish&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats 
+![codedisafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedisafish&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Languages
 Here are some of the coding languages I am learning:
