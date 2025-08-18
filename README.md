@@ -1,13 +1,13 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1375894187152642088?showDisplayName=true)](https://discord.com/users/1375894187152642088)
 
-## 👋 Hi, I'm codedisafish
+## 👋 Hi, I'm coded
 I'm a passionate frontend developer (with occasional backend development), Check out https://codedisafish.com if you have time!
 
 ## 🚀 Latest Project
 ### 🎧 [Youtube-Discord-RPC](https://github.com/codedisafish/Youtube-Discord-RPC)
 A lightweight tool that displays your current YouTube activity as a Discord Rich Presence. 
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats (Public) 
 ![codedisafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedisafish&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Languages
